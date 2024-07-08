@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Admin microservice/com.claimapplicationportal.admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Admin microservice/com.claimapplicationportal.admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Api_Gateway/api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Api_Gateway/api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Authorization microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Authorization microservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Common microservice/com.claimapplicationportal.common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Common microservice/com.claimapplicationportal.common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CommonMicroservice/com.claimapplicationportal.common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CommonMicroservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Service-Registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Service-Registry/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/User microservice/com.claimapplicationportal.user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/User microservice/com.claimapplicationportal.user/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

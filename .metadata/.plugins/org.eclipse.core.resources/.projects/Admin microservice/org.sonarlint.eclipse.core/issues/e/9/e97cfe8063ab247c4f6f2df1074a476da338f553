@@ -1,0 +1,13 @@
+
+‡	java:S116"URename this field "Hospitalid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ψΔΦ8εοβ’©1HηRMINORZ
+CODE_SMELL
+‰	java:S116"WRename this field "Hospitalname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ζ®Δ―8εοβ’©1HθRMINORZ
+CODE_SMELL
+…	java:S116"TRename this field "Createdby" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»»Κc8εοβ’©1HιRMINORZ
+CODE_SMELL
+‹	java:S116"TRename this field "Createdon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Òƒώÿÿÿÿ8εοβ’©1HκRMINORZ
+CODE_SMELL
+†	java:S116"TRename this field "Updatedby" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΏΖδί8εοβ’©1HλRMINORZ
+CODE_SMELL
+‹	java:S116"TRename this field "Updatedon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(τβ¶Θύÿÿÿÿ8εοβ’©1HμRMINORZ
+CODE_SMELL

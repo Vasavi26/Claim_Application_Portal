@@ -1,0 +1,26 @@
+
+…	java:S116)"TRename this field "Createdby" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»»Êc8Åíâ’©1H…RMINORZ
+CODE_SMELL
+‹	java:S116,"TRename this field "Createdon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Òƒşÿÿÿÿ8Åíâ’©1H†RMINORZ
+CODE_SMELL
+Š	java:S116&"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íş¥úûÿÿÿÿ8Åíâ’©1H‡RMINORZ
+CODE_SMELL
+i
+java:S1135x"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8Úˆ¡“©1HˆRINFOZ
+CODE_SMELL
+m	java:S125"<This block of commented-out lines of code should be removed.(é@8¤ö““©1H‰RMAJORZ
+CODE_SMELL
+ƒ	java:S116"QRename this field "Userid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÏ¹ÿ8Åíâ’©1HŠRMINORZ
+CODE_SMELL
+s	java:S107{"AConstructor has 8 parameters, which is greater than 7 authorized.(ó¦Ğæ8¤ö““©1H‹RMAJORZ
+CODE_SMELL
+‹	java:S1162"TRename this field "Updatedon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôâ¶Èıÿÿÿÿ8Åíâ’©1HŒRMINORZ
+CODE_SMELL
+„	java:S116#"RRename this field "Emailid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û›€Ÿ8Åíâ’©1HRMINORZ
+CODE_SMELL
+†	java:S116/"TRename this field "Updatedby" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Æäß8Åíâ’©1HRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ı«ã¾8¤ö““©1HRMAJORZ
+CODE_SMELL
+…	java:S116 "SRename this field "Username" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¨Ö8Åíâ’©1HRMINORZ
+CODE_SMELL

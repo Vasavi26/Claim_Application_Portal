@@ -1,0 +1,14 @@
+insert into hospital(hospital_id,hospital_name) values('H101','Apollo');
+insert into hospital(hospital_id,hospital_name) values('H102','Sunshine');
+insert into Hospital(hospital_id,hospital_name) values('H103','Omni');
+insert into Hospital(hospital_id,hospital_name) values('H104','Medicover');
+insert into Hospital(hospital_id,hospital_name) values('H105','Sangamithra');
+insert into Hospital(hospital_id,hospital_name) values('H106','Renovo');
+insert into Hospital(hospital_id,hospital_name) values('H107','Yashoda');
+insert into Hospital(hospital_id,hospital_name) values('H108','Likitha');
+insert into Hospital(hospital_id,hospital_name) values('H109','Nise');
+insert into Hospital(hospital_id,hospital_name) values('H110','Basava tarakam');
+insert into Hospital(hospital_id,hospital_name) values('H111','KIMS');
+insert into Hospital(hospital_id,hospital_name) values('H112','Continental');
+insert into Hospital(hospital_id,hospital_name) values('H113','Shine');
+insert into Hospital(hospital_id,hospital_name) values('H114','JRD');

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Authorization microservice/AuthorizationMicroservice.iml" filepath="$PROJECT_DIR$/Authorization microservice/AuthorizationMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Claimapplicationportal.iml" filepath="$PROJECT_DIR$/.idea/Claimapplicationportal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonMicroservice/CommonMicroservice.iml" filepath="$PROJECT_DIR$/CommonMicroservice/CommonMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service-Registry/Service-Registry.iml" filepath="$PROJECT_DIR$/Service-Registry/Service-Registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Api_Gateway/api/api.iml" filepath="$PROJECT_DIR$/Api_Gateway/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Admin microservice/com.claimapplicationportal.admin/com.claimapplicationportal.admin.iml" filepath="$PROJECT_DIR$/Admin microservice/com.claimapplicationportal.admin/com.claimapplicationportal.admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User microservice/com.claimapplicationportal.user/com.claimapplicationportal.user.iml" filepath="$PROJECT_DIR$/User microservice/com.claimapplicationportal.user/com.claimapplicationportal.user.iml" />
+    </modules>
+  </component>
+</project>

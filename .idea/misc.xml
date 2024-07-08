@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/User microservice/com.claimapplicationportal.user/pom.xml" />
+        <option value="$PROJECT_DIR$/Admin microservice/com.claimapplicationportal.admin/pom.xml" />
+        <option value="$PROJECT_DIR$/Common microservice/com.claimapplicationportal.common/pom.xml" />
+        <option value="$PROJECT_DIR$/Authorization microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/CommonMicroservice/com.claimapplicationportal.common/pom.xml" />
+        <option value="$PROJECT_DIR$/Service-Registry/pom.xml" />
+        <option value="$PROJECT_DIR$/CommonMicroservice/pom.xml" />
+        <option value="$PROJECT_DIR$/Api_Gateway/api/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17 (2)" project-jdk-type="JavaSDK" />
+</project>

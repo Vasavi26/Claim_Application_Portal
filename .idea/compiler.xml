@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AuthorizationMicroservice" />
+        <module name="CommonMicroservice" />
+        <module name="api" />
+        <module name="com.claimapplicationportal.user" />
+        <module name="com.claimapplicationportal.admin" />
+        <module name="Service-Registry" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api" target="1.8" />
+      <module name="AuthorizationMicroservice" target="17" />
+      <module name="com.claimapplicationportal.admin" target="17" />
+      <module name="com.claimapplicationportal.common" target="17" />
+      <module name="com.claimapplicationportal.user" target="17" />
+      <module name="CommonMicroservice" target="17" />
+      <module name="Service-Registry" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AuthorizationMicroservice" options="-parameters" />
+      <module name="CommonMicroservice" options="-parameters" />
+      <module name="Service-Registry" options="-parameters" />
+      <module name="api" options="-parameters" />
+      <module name="com.claimapplicationportal.admin" options="-parameters" />
+      <module name="com.claimapplicationportal.common" options="-parameters" />
+      <module name="com.claimapplicationportal.user" options="-parameters" />
+    </option>
+  </component>
+</project>

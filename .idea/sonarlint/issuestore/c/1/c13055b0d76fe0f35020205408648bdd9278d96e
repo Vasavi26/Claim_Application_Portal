@@ -1,0 +1,21 @@
+
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+¯
+java:S1130"ŒRemove the declaration of thrown exception 'com.cts.commonmicroservice.exception.ClaimException', as it cannot be thrown from method's body.(£èíÖøÿÿÿÿ8ÿçƒĞß1
+¯
+java:S1130"ŒRemove the declaration of thrown exception 'com.cts.commonmicroservice.exception.ClaimException', as it cannot be thrown from method's body.(ÙíÈÉşÿÿÿÿ8€èƒĞß1
+ª
+java:S1130"ŒRemove the declaration of thrown exception 'com.cts.commonmicroservice.exception.ClaimException', as it cannot be thrown from method's body.(„ïşş8ƒèƒĞß1
+¯
+java:S1130""ŒRemove the declaration of thrown exception 'com.cts.commonmicroservice.exception.ClaimException', as it cannot be thrown from method's body.(Ø¢Ì÷ûÿÿÿÿ8…èƒĞß1
+ª
+java:S1130'"ŒRemove the declaration of thrown exception 'com.cts.commonmicroservice.exception.ClaimException', as it cannot be thrown from method's body.(•ú§‡8ˆèƒĞß1
+“
+java:S1130,"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(¬»Áè8‰èƒĞß1
+ª
+java:S1130,"ŒRemove the declaration of thrown exception 'com.cts.commonmicroservice.exception.ClaimException', as it cannot be thrown from method's body.(¬»Áè8ŠèƒĞß1
+¯
+java:S11301"ŒRemove the declaration of thrown exception 'com.cts.commonmicroservice.exception.ClaimException', as it cannot be thrown from method's body.(Ò§„ÿÿÿÿÿ8‹èƒĞß1
+ª
+java:S11305"ŒRemove the declaration of thrown exception 'com.cts.commonmicroservice.exception.ClaimException', as it cannot be thrown from method's body.(çãá8èƒĞß1

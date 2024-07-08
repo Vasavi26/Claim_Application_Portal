@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Project\Claimapplicationportal\Service-Registry"/>
+			<item value="C:\Project\Claimapplicationportal\Gateway"/>
+			<item value="C:\Project\Claimapplicationportal\AuthorizationMicroservice"/>
+			<item value="C:\Users\2135400\OneDrive - Cognizant\Desktop\EMP project\Backend\Backend (un zipped)\AuthorizationMicroservice"/>
+			<item value="C:\Project\Claimapplicationportal"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
